@@ -1,0 +1,11 @@
+First Name,Last Name,Title,Company,Email,Email Status,Seniority,Person Linkedin Url,Website,Company Linkedin Url,# Employees,City,State,Country
+Sarah,Mitchell,VP of Marketing,Nimbus Cloud,sarah.mitchell@nimbuscloud.io,Verified,VP,https://www.linkedin.com/in/sarah-mitchell-nimbus,nimbuscloud.io,https://linkedin.com/company/nimbus-cloud,480,Austin,TX,United States
+David,Chen,Head of Sales,Brightleaf Software,david.chen@brightleaf.io,Verified,Director,,brightleaf.io,https://linkedin.com/company/brightleaf-software,120,Seattle,WA,United States
+James,O'Connor,Chief Technology Officer,Vertex Robotics,james.oconnor@vertexrobotics.ai,Verified,C-Suite,https://www.linkedin.com/in/james-oconnor-vertex,vertexrobotics.ai,https://linkedin.com/company/vertex-robotics,310,Boston,MA,United States
+Priya,Natarajan,Director of Engineering,Coral Data,priya.natarajan@coraldata.io,Verified,Director,,coraldata.io,https://linkedin.com/company/coral-data,65,Toronto,ON,Canada
+Emily,Davis,Sales Development Rep,Brightleaf Software,emily.davis@brightleaf.io,Verified,Entry,https://www.linkedin.com/in/emily-davis-sdr,brightleaf.io,https://linkedin.com/company/brightleaf-software,120,Seattle,WA,United States
+Kevin,Zhao,Marketing Director,Pixel Forge,kevin.zhao@pixelforge.com,Verified,Director,https://www.linkedin.com/in/kevin-zhao-pixel,pixelforge.com,https://linkedin.com/company/pixel-forge,42,San Francisco,CA,United States
+Rachel,Adams,Enterprise Account Executive,Brightleaf Software,rachel.adams@brightleaf.io,Verified,Senior,https://www.linkedin.com/in/rachel-adams-ae,brightleaf.io,https://linkedin.com/company/brightleaf-software,120,Seattle,WA,United States
+Grace,Liu,Head of Partnerships,Pixel Forge,grace.liu@pixelforge.com,Verified,Director,https://www.linkedin.com/in/grace-liu-partnerships,pixelforge.com,https://linkedin.com/company/pixel-forge,42,San Francisco,CA,United States
+Oliver,Bennett,VP of Engineering,Vertex Robotics,oliver.bennett@vertexrobotics.ai,Verified,VP,https://www.linkedin.com/in/oliver-bennett-vertex,vertexrobotics.ai,https://linkedin.com/company/vertex-robotics,310,Boston,MA,United States
+Isabella,Rossi,Marketing Manager,Coral Data,isabella.rossi@coraldata.io,Verified,Manager,https://www.linkedin.com/in/isabella-rossi-coral,coraldata.io,https://linkedin.com/company/coral-data,65,Toronto,ON,Canada
