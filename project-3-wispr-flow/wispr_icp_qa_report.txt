@@ -1,0 +1,18 @@
+WISPR FLOW — NYC DINNER CTO LIST | FINAL QA REPORT
+============================================================
+
+[PASS] Total input rows: 12 rows ingested
+[PASS] After dedupe: 12 unique people
+[PASS] ICP-fit count: 12 ICP-fit, 0 non-ICP
+[PASS] Email coverage: 9/12 have email
+[PASS] Deliverable/HIGH_PROB emails: 8 DELIVERABLE/HIGH_PROB, 1 CATCH_ALL
+[WARN] No-email leads (LinkedIn-only): Souvik Sen, Peter Salas, Will Lu
+[PASS] No personal/free emails: None found
+[PASS] No duplicate emails: None
+[PASS] LinkedIn URL format: All valid
+[PASS] Required fields present: All rows have name/title/company/LI
+[PASS] US-based for NYC dinner
+[PASS] Campaign readiness: 8 high-quality emails ready for email outreach; 3 need LinkedIn-only approach
+
+VERDICT: GO
+FAILs: 0, WARNs: 1
